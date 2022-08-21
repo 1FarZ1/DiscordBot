@@ -10,6 +10,8 @@ intents=discord.Intents.default()
 intents.message_content=True
 client=discord.Client(intents=intents)
 TOKEN = 'MTAxMDYwMjY3MzMyMzYzODg0NA.G-gi58.uZIjhbBUMX-FXBtp13VGOWvSqogTRAbg9HfqmM'
+
+## i will improve this later on with the  Database
 messages=[
   "faregamer"
   "bimber",
